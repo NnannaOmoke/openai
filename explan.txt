@@ -11,3 +11,12 @@ The value of a state is represented by the Bellman equation
     This regularization metric is applied to all actions, i.e. a gamma of 0.9 is applied to every state/action sequentially from the origin
 A deterministic policy states that for each state, only one action can be chosen. Later on, said action can be updated
 A stochastic policy represents a state of conditional probability distributions, mapping a state to a set of actions
+
+
+
+The step method unpacks to a tuple:
+    0 -> observation: Gives what the agent can see of the environment
+    1 -> reward: The reward for taking the action
+    2 -> terminated: Has the agent reached the terminal state of the environment (bool)
+    3 -> truncated: Whether a time limit specified outside the environment has been reached (similar to a callback in function)
+    4 -> info: Gives useful information about the state that an agent finds itself in
