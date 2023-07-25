@@ -1,1 +1,13 @@
-ECHO is on.
+An agent is an artificial intelligence capable of interacting with an environment
+An agent can make observations and interact with the environment
+The environment is not static, it can change on its own, and the agent can make the environment change
+agent -> action -> changes environment -> reward
+A state s is a complete description of an environment
+an observation is a partial description of an environment
+a policy is a rule (or system of rules) that determine what action should be taken given the observation
+The value of a state is represented by the Bellman equation
+    The value of state is equal to the maximum value an agent can obtain by performing an action
+    To optmize the equation and prevent TLEs, we add some regularization metric for each action taken
+    This regularization metric is applied to all actions, i.e. a gamma of 0.9 is applied to every state/action sequentially from the origin
+A deterministic policy states that for each state, only one action can be chosen. Later on, said action can be updated
+A stochastic policy represents a state of conditional probability distributions, mapping a state to a set of actions
