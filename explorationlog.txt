@@ -120,3 +120,2166 @@
 	Observation: [-0.3740101   0.00653267]
 	Reward: -1.0
 	Done/Terminated: False
+07/25/2023, 16:14:36
+	Observation: [-0.48087135  0.00068552]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.47950542  0.00136594]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4774692   0.00203621]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.47477788  0.00269134]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.47145137  0.00332649]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4675144   0.00393698]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4629961   0.00451833]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4579298  0.0050663]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.45235282  0.00557697]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.44630614  0.00604668]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.43983397  0.00647217]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.43298343  0.00685052]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4258042   0.00717925]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.41834792  0.00745626]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.410668    0.00767994]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.40281892  0.00784906]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.39485604  0.00796291]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.38683486  0.00802116]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37881088  0.00802397]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.370839    0.00797189]
+	Reward: -1.0
+	Done/Terminated: False
+07/25/2023, 16:14:54
+	Observation: [-0.4682024   0.00059081]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4670252   0.00117725]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4652702   0.00175498]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.46295047  0.00231974]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.46008307  0.00286739]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.45668918  0.00339389]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.45279375  0.00389544]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.44842535  0.00436838]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.443616    0.00480935]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4384008   0.00521522]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.43281764  0.00558317]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.42690694  0.00591069]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4207113   0.00619563]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.41427514  0.00643617]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.40764427  0.00663086]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4008656   0.00677864]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.39398682  0.0068788 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3870558   0.00693102]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.38012046  0.00693535]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37322828  0.00689218]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.366426    0.00680227]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.35975933  0.00666667]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3532726   0.00648676]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3470084   0.00626418]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.34100756  0.00600084]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3353087   0.00569887]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3299481  0.0053606]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32495955  0.00498855]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32037416  0.00458538]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31622028  0.00415388]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3125233   0.00369695]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30930573  0.00321758]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30658692  0.00271882]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30438313  0.0022038 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30270746  0.00167566]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30156988  0.00113759]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30097705  0.00059281]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-3.0093253e-01  4.4527358e-05]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30143654 -0.00050401]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30248612 -0.00104958]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3040751  -0.00158896]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.306194   -0.00211893]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30883032 -0.0026363 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3119682  -0.00313791]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31558886 -0.00362063]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31967026 -0.00408141]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3241875  -0.00451723]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32911268 -0.00492519]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.33441517 -0.00530247]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.34006155 -0.0056464 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.34601596 -0.00595442]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.35224015 -0.00622417]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.35869366 -0.0064535 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3653341  -0.00664045]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37211743 -0.00678334]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3789982  -0.00688075]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.38592973 -0.00693156]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3928647  -0.00693497]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.39975524 -0.00689053]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4065534  -0.00679814]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.41321144 -0.00665805]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.41968235 -0.0064709 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.42592004 -0.00623771]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4318799  -0.00595987]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.437519   -0.00563911]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4427966  -0.00527756]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.44767424 -0.00487765]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.45211643 -0.00444218]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4560906 -0.0039742]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.45956767 -0.00347705]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.462522   -0.00295434]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.46493185 -0.00240985]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.46677944 -0.00184759]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4680511  -0.00127167]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.46873748 -0.00068635]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-4.6883345e-01 -9.5959585e-05]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.46833828  0.00049515]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4672557   0.00108259]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.46559367  0.00166202]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4633645   0.00222918]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4605846   0.00277988]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.45727456  0.00331008]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4534586   0.00381592]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.44916487  0.00429375]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.44442475  0.00474012]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.43927288  0.00515188]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4337467   0.00552616]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4278863  0.0058604]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.42173392  0.00615238]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4153337   0.00640023]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.40873125  0.00660245]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.40197337  0.00675789]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.39510757  0.0068658 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.38818175  0.00692581]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.38124385  0.00693789]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37434146  0.00690239]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3675215   0.00681999]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.36082977  0.00669172]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.35431087  0.00651889]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.34800777  0.00630311]
+	Reward: -1.0
+	Done/Terminated: False
+07/25/2023, 16:39:27
+	Observation: [-5.2341020e-01 -1.4249277e-06]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.52441305 -0.00100284]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5264098  -0.00199673]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.52938545 -0.00297565]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5333177  -0.00393225]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5381771  -0.00485937]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.54392713 -0.00575007]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.55052483 -0.0065977 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5579208  -0.00739597]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5660598  -0.00813901]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.57488126 -0.00882142]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.58431953 -0.00943831]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.594305   -0.00998542]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.60476404 -0.01045909]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.61562043 -0.01085635]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.62679535 -0.01117492]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.63820857 -0.01141325]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6497791  -0.01157052]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6614257 -0.0116466]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6730678 -0.0116421]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6846261  -0.01155828]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6960231 -0.011397 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.70718384 -0.01116072]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.71803623 -0.0108524 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.72851163 -0.01047542]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7385452  -0.01003355]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7480761  -0.00953088]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7570478 -0.0089717]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7654082  -0.00836049]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7731101  -0.00770185]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.78011054 -0.00700044]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.78637147 -0.00626093]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7918595  -0.00548801]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7965458  -0.00468631]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.8004062  -0.00386043]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.8034211  -0.00301489]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.80557525 -0.00215417]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.806858  -0.0012827]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-8.0726284e-01 -4.0486461e-04]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-8.0678785e-01  4.7497256e-04]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.80443543  0.00235246]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.80021715  0.00421825]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.79415435  0.00606283]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7862779   0.00787642]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.77662903  0.00964885]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.76525956  0.0113695 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.75223225  0.01302731]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7376215   0.01461073]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7215136   0.01610787]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7040071   0.01750654]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6852126  0.0187945]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6652529   0.01995968]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.64426255  0.02099039]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6223868   0.02187573]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.599781    0.02260585]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5766087   0.02317225]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.55304056  0.02356815]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5292519   0.02378868]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5054208   0.02383108]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.481726    0.02369481]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4583444   0.02338159]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4354491  0.0228953]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.41320726  0.02224186]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3917783   0.02142897]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3713124   0.02046588]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.35194933  0.01936306]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.3338175   0.01813183]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31703338  0.01678413]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30170122  0.01533216]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.28791305  0.01378815]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.2757489   0.01216416]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.26527703  0.01047189]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.25655437  0.00872266]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.24962705  0.0069273 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.24453087  0.00509617]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.24129164  0.00323924]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.23992552  0.00136613]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.24043927 -0.00051376]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.24383037 -0.0033911 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.2500819  -0.00625154]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.25916225 -0.00908035]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.27102432 -0.01186205]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.2856045  -0.01458022]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.30282187 -0.01721734]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32257658 -0.01975473]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.34474924 -0.02217266]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.36919984 -0.02445059]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.39576745 -0.02656762]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.42427048 -0.02850302]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4545075  -0.03023701]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.48625898 -0.03175149]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5192899  -0.03303096]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5533532  -0.03406327]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5881936  -0.03484041]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6235526  -0.03535897]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6591731 -0.0356205]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6948046 -0.0356315]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.73020774 -0.03540317]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7651587  -0.03495093]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7994524 -0.0342937]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.8329054  -0.03345299]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.86535746 -0.03245205]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.89667237 -0.03131491]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.92673784 -0.03006551]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.95546484 -0.02872698]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9827859  -0.02732105]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0086535  -0.02586758]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0330378  -0.02438428]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0559243  -0.02288653]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0773116  -0.02138739]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0972092  -0.01989759]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1156349  -0.01842567]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1326131  -0.01697818]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.148173   -0.01555981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1623466  -0.01417364]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1751679  -0.01282133]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1866711  -0.01150331]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1968901  -0.01021898]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.2  0. ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1977581  0.0022419]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1932669   0.00449118]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.186512    0.00675497]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1774722   0.00903978]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1661209   0.01135127]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1524271   0.01369384]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1363567  0.0160703]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1178753  0.0184814]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0969499   0.02092541]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0735524   0.02339762]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0476625   0.02588981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0192727   0.02838981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9883917   0.03088104]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.95504946  0.03334223]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9193021   0.03574732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.88123655  0.03806554]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.84097457  0.04026203]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7986759   0.04229866]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.75454044  0.04413542]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.70880824  0.0457322 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.66175735  0.0470509 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6136997   0.04805768]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5649745   0.04872523]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5159397   0.04903475]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4669624   0.04897732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4184078   0.04855458]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37062913  0.04777868]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32395786  0.04667126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.278696    0.04526187]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.23511006  0.04358594]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.1934276   0.04168245]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.15383592  0.03959168]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11648269  0.03735323]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.08147837  0.03500432]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.04889973  0.03257864]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.01879424  0.03010549]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.00881522 0.02760946]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.03392556 0.02511034]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.05654883 0.02262327]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.076708   0.02015916]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.09443306 0.01772507]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.10975778 0.01532472]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.12271681 0.01295903]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.13334335 0.01062654]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14166726 0.00832392]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14771359 0.00604632]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15150139 0.0037878 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15304299 0.0015416 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1523435 -0.0006995]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14840057 -0.00394291]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14120136 -0.00719922]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1307231  -0.01047826]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.11693464 -0.01378846]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.09979844 -0.0171362 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.07927345 -0.02052499]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.05531882 -0.02395462]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.02789855 -0.02742028]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.00301298 -0.03091153]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.0374244  -0.03441142]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.07532008 -0.03789568]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11665221 -0.04133213]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.16133282 -0.0446806 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.20922627 -0.04789345]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.26014322 -0.05091694]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31383666 -0.05369347]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37000155 -0.05616488]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4282781  -0.05827653]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.48825982 -0.05998173]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.54950607 -0.06124628]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.61155826 -0.06205217]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.67395836 -0.0624001 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.73626864 -0.06231026]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.79808986 -0.06182126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.85907733 -0.06098749]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9189525  -0.05987516]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.97751045 -0.05855791]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0346228  -0.05711235]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0902369  -0.05561413]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1443719  -0.05413494]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1971123  -0.05274042]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.2  0. ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1977581  0.0022419]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1932669   0.00449118]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.186512    0.00675497]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1774722   0.00903978]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1661209   0.01135127]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1524271   0.01369384]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1363567  0.0160703]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1178753  0.0184814]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0969499   0.02092541]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0735524   0.02339762]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0476625   0.02588981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0192727   0.02838981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9883917   0.03088104]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.95504946  0.03334223]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9193021   0.03574732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.88123655  0.03806554]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.84097457  0.04026203]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7986759   0.04229866]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.75454044  0.04413542]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.70880824  0.0457322 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.66175735  0.0470509 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6136997   0.04805768]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5649745   0.04872523]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5159397   0.04903475]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4669624   0.04897732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4184078   0.04855458]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37062913  0.04777868]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32395786  0.04667126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.278696    0.04526187]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.23511006  0.04358594]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.1934276   0.04168245]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.15383592  0.03959168]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11648269  0.03735323]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.08147837  0.03500432]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.04889973  0.03257864]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.01879424  0.03010549]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.00881522 0.02760946]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.03392556 0.02511034]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.05654883 0.02262327]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.076708   0.02015916]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.09443306 0.01772507]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.10975778 0.01532472]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.12271681 0.01295903]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.13334335 0.01062654]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14166726 0.00832392]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14771359 0.00604632]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15150139 0.0037878 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15304299 0.0015416 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1523435 -0.0006995]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14840057 -0.00394291]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14120136 -0.00719922]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1307231  -0.01047826]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.11693464 -0.01378846]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.09979844 -0.0171362 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.07927345 -0.02052499]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.05531882 -0.02395462]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.02789855 -0.02742028]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.00301298 -0.03091153]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.0374244  -0.03441142]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.07532008 -0.03789568]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11665221 -0.04133213]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.16133282 -0.0446806 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.20922627 -0.04789345]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.26014322 -0.05091694]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31383666 -0.05369347]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37000155 -0.05616488]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4282781  -0.05827653]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.48825982 -0.05998173]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.54950607 -0.06124628]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.61155826 -0.06205217]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.67395836 -0.0624001 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.73626864 -0.06231026]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.79808986 -0.06182126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.85907733 -0.06098749]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9189525  -0.05987516]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.97751045 -0.05855791]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0346228  -0.05711235]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0902369  -0.05561413]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1443719  -0.05413494]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1971123  -0.05274042]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.2  0. ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1977581  0.0022419]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1932669   0.00449118]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.186512    0.00675497]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1774722   0.00903978]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1661209   0.01135127]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1524271   0.01369384]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1363567  0.0160703]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1178753  0.0184814]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0969499   0.02092541]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0735524   0.02339762]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0476625   0.02588981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0192727   0.02838981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9883917   0.03088104]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.95504946  0.03334223]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9193021   0.03574732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.88123655  0.03806554]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.84097457  0.04026203]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7986759   0.04229866]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.75454044  0.04413542]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.70880824  0.0457322 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.66175735  0.0470509 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6136997   0.04805768]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5649745   0.04872523]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5159397   0.04903475]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4669624   0.04897732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4184078   0.04855458]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37062913  0.04777868]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32395786  0.04667126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.278696    0.04526187]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.23511006  0.04358594]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.1934276   0.04168245]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.15383592  0.03959168]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11648269  0.03735323]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.08147837  0.03500432]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.04889973  0.03257864]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.01879424  0.03010549]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.00881522 0.02760946]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.03392556 0.02511034]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.05654883 0.02262327]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.076708   0.02015916]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.09443306 0.01772507]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.10975778 0.01532472]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.12271681 0.01295903]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.13334335 0.01062654]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14166726 0.00832392]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14771359 0.00604632]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15150139 0.0037878 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15304299 0.0015416 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1523435 -0.0006995]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14840057 -0.00394291]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14120136 -0.00719922]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1307231  -0.01047826]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.11693464 -0.01378846]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.09979844 -0.0171362 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.07927345 -0.02052499]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.05531882 -0.02395462]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.02789855 -0.02742028]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.00301298 -0.03091153]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.0374244  -0.03441142]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.07532008 -0.03789568]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11665221 -0.04133213]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.16133282 -0.0446806 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.20922627 -0.04789345]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.26014322 -0.05091694]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31383666 -0.05369347]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37000155 -0.05616488]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4282781  -0.05827653]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.48825982 -0.05998173]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.54950607 -0.06124628]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.61155826 -0.06205217]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.67395836 -0.0624001 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.73626864 -0.06231026]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.79808986 -0.06182126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.85907733 -0.06098749]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9189525  -0.05987516]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.97751045 -0.05855791]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0346228  -0.05711235]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0902369  -0.05561413]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1443719  -0.05413494]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1971123  -0.05274042]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.2  0. ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1977581  0.0022419]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1932669   0.00449118]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.186512    0.00675497]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1774722   0.00903978]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1661209   0.01135127]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1524271   0.01369384]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1363567  0.0160703]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1178753  0.0184814]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0969499   0.02092541]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0735524   0.02339762]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0476625   0.02588981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0192727   0.02838981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9883917   0.03088104]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.95504946  0.03334223]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9193021   0.03574732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.88123655  0.03806554]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.84097457  0.04026203]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7986759   0.04229866]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.75454044  0.04413542]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.70880824  0.0457322 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.66175735  0.0470509 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6136997   0.04805768]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5649745   0.04872523]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5159397   0.04903475]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4669624   0.04897732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4184078   0.04855458]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37062913  0.04777868]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32395786  0.04667126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.278696    0.04526187]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.23511006  0.04358594]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.1934276   0.04168245]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.15383592  0.03959168]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11648269  0.03735323]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.08147837  0.03500432]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.04889973  0.03257864]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.01879424  0.03010549]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.00881522 0.02760946]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.03392556 0.02511034]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.05654883 0.02262327]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.076708   0.02015916]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.09443306 0.01772507]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.10975778 0.01532472]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.12271681 0.01295903]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.13334335 0.01062654]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14166726 0.00832392]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14771359 0.00604632]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15150139 0.0037878 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15304299 0.0015416 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1523435 -0.0006995]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14840057 -0.00394291]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14120136 -0.00719922]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1307231  -0.01047826]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.11693464 -0.01378846]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.09979844 -0.0171362 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.07927345 -0.02052499]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.05531882 -0.02395462]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.02789855 -0.02742028]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.00301298 -0.03091153]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.0374244  -0.03441142]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.07532008 -0.03789568]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11665221 -0.04133213]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.16133282 -0.0446806 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.20922627 -0.04789345]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.26014322 -0.05091694]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31383666 -0.05369347]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37000155 -0.05616488]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4282781  -0.05827653]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.48825982 -0.05998173]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.54950607 -0.06124628]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.61155826 -0.06205217]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.67395836 -0.0624001 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.73626864 -0.06231026]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.79808986 -0.06182126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.85907733 -0.06098749]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9189525  -0.05987516]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.97751045 -0.05855791]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0346228  -0.05711235]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0902369  -0.05561413]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1443719  -0.05413494]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1971123  -0.05274042]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.2  0. ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1977581  0.0022419]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1932669   0.00449118]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.186512    0.00675497]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1774722   0.00903978]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1661209   0.01135127]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1524271   0.01369384]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1363567  0.0160703]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1178753  0.0184814]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0969499   0.02092541]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0735524   0.02339762]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0476625   0.02588981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0192727   0.02838981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9883917   0.03088104]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.95504946  0.03334223]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9193021   0.03574732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.88123655  0.03806554]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.84097457  0.04026203]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7986759   0.04229866]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.75454044  0.04413542]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.70880824  0.0457322 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.66175735  0.0470509 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6136997   0.04805768]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5649745   0.04872523]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5159397   0.04903475]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4669624   0.04897732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4184078   0.04855458]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37062913  0.04777868]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32395786  0.04667126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.278696    0.04526187]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.23511006  0.04358594]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.1934276   0.04168245]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.15383592  0.03959168]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11648269  0.03735323]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.08147837  0.03500432]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.04889973  0.03257864]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.01879424  0.03010549]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.00881522 0.02760946]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.03392556 0.02511034]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.05654883 0.02262327]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.076708   0.02015916]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.09443306 0.01772507]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.10975778 0.01532472]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.12271681 0.01295903]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.13334335 0.01062654]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14166726 0.00832392]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14771359 0.00604632]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15150139 0.0037878 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15304299 0.0015416 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1523435 -0.0006995]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14840057 -0.00394291]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14120136 -0.00719922]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1307231  -0.01047826]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.11693464 -0.01378846]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.09979844 -0.0171362 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.07927345 -0.02052499]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.05531882 -0.02395462]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.02789855 -0.02742028]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.00301298 -0.03091153]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.0374244  -0.03441142]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.07532008 -0.03789568]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11665221 -0.04133213]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.16133282 -0.0446806 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.20922627 -0.04789345]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.26014322 -0.05091694]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31383666 -0.05369347]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37000155 -0.05616488]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4282781  -0.05827653]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.48825982 -0.05998173]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.54950607 -0.06124628]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.61155826 -0.06205217]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.67395836 -0.0624001 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.73626864 -0.06231026]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.79808986 -0.06182126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.85907733 -0.06098749]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9189525  -0.05987516]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.97751045 -0.05855791]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0346228  -0.05711235]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0902369  -0.05561413]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1443719  -0.05413494]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1971123  -0.05274042]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.2  0. ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1977581  0.0022419]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1932669   0.00449118]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.186512    0.00675497]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1774722   0.00903978]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1661209   0.01135127]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1524271   0.01369384]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1363567  0.0160703]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.1178753  0.0184814]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0969499   0.02092541]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0735524   0.02339762]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0476625   0.02588981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-1.0192727   0.02838981]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9883917   0.03088104]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.95504946  0.03334223]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9193021   0.03574732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.88123655  0.03806554]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.84097457  0.04026203]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.7986759   0.04229866]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.75454044  0.04413542]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.70880824  0.0457322 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.66175735  0.0470509 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.6136997   0.04805768]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5649745   0.04872523]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.5159397   0.04903475]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4669624   0.04897732]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4184078   0.04855458]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37062913  0.04777868]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.32395786  0.04667126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.278696    0.04526187]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.23511006  0.04358594]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.1934276   0.04168245]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.15383592  0.03959168]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11648269  0.03735323]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.08147837  0.03500432]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.04889973  0.03257864]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.01879424  0.03010549]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.00881522 0.02760946]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.03392556 0.02511034]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.05654883 0.02262327]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.076708   0.02015916]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.09443306 0.01772507]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.10975778 0.01532472]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.12271681 0.01295903]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.13334335 0.01062654]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14166726 0.00832392]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.14771359 0.00604632]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15150139 0.0037878 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [0.15304299 0.0015416 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1523435 -0.0006995]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14840057 -0.00394291]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.14120136 -0.00719922]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.1307231  -0.01047826]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.11693464 -0.01378846]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.09979844 -0.0171362 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.07927345 -0.02052499]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.05531882 -0.02395462]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [ 0.02789855 -0.02742028]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.00301298 -0.03091153]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.0374244  -0.03441142]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.07532008 -0.03789568]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.11665221 -0.04133213]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.16133282 -0.0446806 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.20922627 -0.04789345]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.26014322 -0.05091694]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.31383666 -0.05369347]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.37000155 -0.05616488]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.4282781  -0.05827653]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.48825982 -0.05998173]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.54950607 -0.06124628]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.61155826 -0.06205217]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.67395836 -0.0624001 ]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.73626864 -0.06231026]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.79808986 -0.06182126]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.85907733 -0.06098749]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.9189525  -0.05987516]
+	Reward: -1.0
+	Done/Terminated: False
+	Observation: [-0.97751045 -0.05855791]
+	Reward: -1.0
+	Done/Terminated: False
