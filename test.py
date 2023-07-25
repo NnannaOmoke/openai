@@ -25,6 +25,8 @@ def implement_actions(time_limit = 200, verbose = 1):
             f"Reward: {test[1]}\nDone: {test[2]}\nInfo: {test[4]}"
         )
         t.sleep(0.1)
+        if(test[2]):
+            break
     env.close()
     return
 implement_actions(200)
