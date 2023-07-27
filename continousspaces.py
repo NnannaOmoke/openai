@@ -79,23 +79,23 @@ def failure(done, points, reward):
 
 #main
 
-print(start_vars)
+# print(start_vars)
 
 
 logger = 500
 # render_interval = int(10e03)
-fig = plotter.figure()
-ax = fig.add_subplot(111)
-plotter.ion()
-fig.canvas.draw()
-
+# fig = plotter.figure()
+# ax = fig.add_subplot(111)
+# plotter.ion()
+# fig.canvas.draw()
+# plotter.show()
+reward_log = []
 points_log = []
 mean_points_log = []
 epochs = []
 
 for eps in range(EPOCHS):
     initial_state = env.reset()
-    print(initial_state[0])
     discretized_state = discretize_observations(initial_state[0], BINS)
     done = False
     points = 0
@@ -107,28 +107,42 @@ for eps in range(EPOCHS):
         unpacker = env.step(action = action)
         reward = failure(done = unpacker[2] or unpacker[3], points = points, reward = unpacker[1])
         current_discretized = discretize_observations([unpacker[0]], BINS)
-        old_qvalue = qtable[discretized_state + (action, )]
+        old_qvalue = qtable[discretized_state[0]] + (action, )
         optimal_qvalue = np.max(qtable[current_discretized])
         next_qvalue = compute_q_val(old_qvalue, reward, optimal_qvalue)
         qtable[discretized_state[0] + (action, )] = next_qvalue
         discretized_state_two = current_discretized
         points += 1
+        reward_log.append(reward)
         done = unpacker[2] or unpacker[3]
     exploration = reduce_exploration(eps)
     points_log.append(points)
     running_mean = round(np.mean(points_log[-30: ]), 2)   
     mean_points_log.append(running_mean)
-    if(eps % logger):
-        ax.clear()
-        ax.scatter(epochs, points_log)
-        ax.plot(epochs, points_log)
-        ax.plot(epochs, mean_points_log, label = f"Running Mean: {running_mean}")
-        plotter.legend()
-        fig.canvas.draw()
-        plotter.show()
+    if eps % logger == 0:
+        print(np.sum(reward_log))
+        # ax.clear()
+        # ax.scatter(epochs, points_log)
+        # ax.plot(epochs, points_log)
+        # ax.plot(epochs, mean_points_log, label = f"Running Mean: {running_mean}")
+        # plotter.legend()
+        # fig.canvas.draw()
+        # plotter.ion()
+        # plotter.show()
 env.close()
 
-
-
-print(qtable.shape)
 # print(explore_env(0.2))
+
+
+new_env = gym.make("CartPole-v1", render_mode = "human")
+observation = new_env.reset()
+rewards = 0
+for _ in range(1000):
+    discrete_state = discretize_observations(observation[0], BINS)  # get bins
+    action = np.argmax(qtable[discrete_state])  # and chose action from the Q-Table
+    unpackerr = new_env.step(action) # Finally perform the action
+    rewards += 1
+    if unpackerr[2] or unpackerr[3]:
+        print(f"You got {rewards} points!")
+        break
+new_env.close()
