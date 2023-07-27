@@ -4,11 +4,12 @@ import seaborn as sns
 import gymnasium as gym
 from gymnasium.envs.registration import register
 import time as t
+import os
 
-def make_env():
+def make_env(id_str = "FrozenLakeNotSlippery-v0"):
     try:
         register(
-    id = "FrozenLakeNotSlippery-v0",
+    id = id_str,
     entry_point = "gymnasium.envs.toy_text:FrozenLakeEnv",
     kwargs = {"map_name": "4x4", "is_slippery": False},
     max_episode_steps = 150,
@@ -36,7 +37,7 @@ def makeqtable():
     return table
 qtable = makeqtable()
 
-def greedy_selection(exploration, qtable, discrete_state):
+def greedy_selection(exploration, qtable, discrete_state, env = env):
     # choose whether to max future reward, or explore the game
     rand_num = np.random.random()
     if rand_num > exploration: #choose to maximize reward
@@ -97,6 +98,25 @@ for eps in range(int(EPISODES)):
     if eps % logger == 0:
         print(np.sum(rewards))
 env.close()
+
+
+
+#playing the game with the updated qtable
+
+make_env(id_str = "FrozenLakeNotSlippery-v1")
+env = gym.make(id = "FrozenLakeNotSlippery-v1", render_mode = "human")
+state = env.reset()
+for steps in range(100):
+    action = np.argmax(qtable[state[0]])
+    unpacker = env.step(action = action)
+    if unpacker[2] or unpacker[3]:
+        break
+    t.sleep(0.2)
+env.close()
+
+
+
+
 
 
 # print(exploration)
