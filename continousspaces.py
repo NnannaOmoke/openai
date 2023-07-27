@@ -134,15 +134,15 @@ env.close()
 # print(explore_env(0.2))
 
 
-new_env = gym.make("CartPole-v1", render_mode = "human")
-observation = new_env.reset()
-rewards = 0
-for _ in range(1000):
-    discrete_state = discretize_observations(observation[0], BINS)  # get bins
-    action = np.argmax(qtable[discrete_state])  # and chose action from the Q-Table
-    unpackerr = new_env.step(action) # Finally perform the action
-    rewards += 1
-    if unpackerr[2] or unpackerr[3]:
-        print(f"You got {rewards} points!")
-        break
-new_env.close()
+# new_env = gym.make("CartPole-v1", render_mode = "human")
+# observation = new_env.reset()
+# rewards = 0
+# for _ in range(1000):
+#     discrete_state = discretize_observations(observation[0], BINS)  # get bins
+#     action = np.argmax(qtable[discrete_state])  # and chose action from the Q-Table
+#     unpackerr = new_env.step(action) # Finally perform the action
+#     rewards += 1
+#     if unpackerr[2] or unpackerr[3]:
+#         print(f"You got {rewards} points!")
+#         break
+# new_env.close()
