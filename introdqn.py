@@ -22,7 +22,7 @@ observation_nums = env.observation_space.shape[0]
 num_actions = env.action_space.n
 
 
-def explore_env():
+def explore_env(env = env):
     for _ in range(200):
         env.step(env.action_space.sample())
     return
