@@ -7,7 +7,7 @@ from keras.layers import Dense
 from keras.optimizers import Adam
 
 BATCH_SIZE = 32
-EPISODES = int(1e03)
+EPISODES = 250
 REDUCTION = 9.95e-1
 L_RATE = 1e-3
 GAMMA = 9.5e-1
@@ -39,8 +39,8 @@ def build_target_network(learner):
     return clone_model(learner)
     
 def greedy_selection(learner, explr, obs):
-    if np.random.random > explr:
-        prediction = learner.predict(obs)
+    if np.random.random() > explr:
+        prediction = learner.predict(obs, verbose = 0)
         action = np.argmax(prediction)
     else:
        action = env.action_space.sample() 
@@ -52,22 +52,36 @@ def replay(replay_buffer, batch_size, learner, target_learner):
     samples = r.sample(replay_buffer, batch_size) #batch_size number of elements from a replay_buffer
     target_batch = []
     zipped_samples = list(zip(*samples))
-    targets = target_learner.predict(np.array(zipped_samples[0]))
-    q_vals = learner.predict(np.array(zipped_samples[3]))
-    for index in range(len(batch_size)):
+    one, two, three, four, five = zipped_samples
+    targets = target_learner.predict(np.array(one), verbose = 0)
+    q_vals = learner.predict(np.array(four), verbose = 0)
+    for index in range(batch_size):
         q_values = max(q_vals[index][0])
         target = targets[index].copy()
-        if zipped_samples[4][index]:
-            target[0][zipped_samples[1][index]] = zipped_samples[2][index]
+        if five[index]:
+            target[0][two[index]] = three[index]
         else:
-            target[0][zipped_samples[1][index]] = zipped_samples[2][index] + q_values * GAMMA
+            target[0][two[index]] = three[index] + q_values * GAMMA
         target_batch.append(target)
-    learner.fit(np.array(zipped_samples[0]), np.array(target_batch), epochs = 1, verbose = 0)
+    learner.fit(np.array(one), np.array(target_batch), epochs = 1, verbose = 0)
 
 def update_model(epoch, update_target_learner, learner,  target_learner):
     if epoch > 0 and epoch % update_target_learner == 0:
         target_learner.set_weights(learner.get_weights())
     return   
+
+
+def play_with_model(learner):
+    new_env = gym.make("Cartpole-v1", render_mode = "human")
+    init_status = new_env.reset()
+    init_status = init_status[0].reshape((1, 4))
+    for _ in range(350):
+        action = np.argmax(learner.predict(init_status))
+        unpacker = new_env.step(action = action)
+        if unpacker[2] or unpacker[3]:
+            break
+    env.close()
+    return
 
 learner = build_model()
 target_learner = build_target_network(learner)
@@ -84,14 +98,19 @@ for _ in range(EPISODES):
     while not done:
         action = greedy_selection(learner, explr, init_state)
         unpacked = env.step(action = action)
-        next_init= [unpacked[0].reshape([1,4])]
+        next_init= unpacked[0].reshape([1,4])
         replay_buffer.append((init_state, action, unpacked[1], next_init, unpacked[2] or unpacked[3]))
         init_state = next_init
         points += 1
         replay(replay_buffer, BATCH_SIZE, learner, target_learner)
+        done = unpacked[2] or unpacked[3]
     explr *= REDUCTION
     update_model(_, update_target_learner, learner, target_learner)
     if points > accumulated_reward:
         accumulated_reward = points
-    if _ % 25:
+    if _ % 25 == 0:
         print(f"{_}: POINTS: {points}, eps: {explr}, best so far: {accumulated_reward}")
+env.close()
+
+
+play_with_model(learner)
